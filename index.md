@@ -30,6 +30,7 @@
 
 ## 📜 Achievements
 - Consistently scored above **90%** in school academics  
-- High proficiency in Computer Science (96%) and French (97%) in Class XII  
+- High proficiency in Computer Science (96%) and French (97%) in Class XII
+- [📄 Download Resume (PDF)](./Prathiksha_Resume.pdf)
 
 ---
