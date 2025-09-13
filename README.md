@@ -15,7 +15,8 @@ Currently pursuing **B.Tech in Apparel Technology** at *Anna University, ACTech 
 
 ## 📜 Resume Access
 - [View Resume (PDF)](./Prathiksha_Resume.pdf)  
-- [Resume in Markdown](./resume.md)  
+- [Resume in Markdown](./resume.md)
+- 
 
 ---
 
@@ -25,3 +26,4 @@ Currently pursuing **B.Tech in Apparel Technology** at *Anna University, ACTech 
 - Application of Data Science in Apparel Technology  
 
 ---
+[![Resume Website](https://img.shields.io/badge/Resume-Live-green)](https://rajiprem72.github.io/prathiksha-resume/)
